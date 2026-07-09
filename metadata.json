@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Chasers Uganda",
+  "description": "Luxurious, immersive safari and travel booking platform for Uganda, featuring gorilla trekking, wildlife tours, interactive destination maps, an AI-powered travel assistant, and an administrative booking dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

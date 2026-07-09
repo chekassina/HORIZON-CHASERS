@@ -1,0 +1,28 @@
+[
+  {
+    "id": "book-1",
+    "name": "Dr. Sarah Jenkins",
+    "email": "sarah.jenkins@oxford.ac.uk",
+    "phone": "+44 7700 900077",
+    "packageId": "pkg-1",
+    "packageName": "3 Days Gorilla Trekking Tour",
+    "travelDate": "2026-09-15",
+    "guests": 2,
+    "preferences": "Celebrating our 10th wedding anniversary. We would prefer a cottage with a panoramic valley view if available. Interested in hiring a porter for the trek.",
+    "status": "Approved",
+    "createdAt": "2026-07-01T10:30:00Z"
+  },
+  {
+    "id": "book-2",
+    "name": "Robert Chen",
+    "email": "rob.chen@techventures.com",
+    "phone": "+1 (555) 342-9901",
+    "packageId": "pkg-3",
+    "packageName": "7 Days Ultimate Luxury Fly-in Safari",
+    "travelDate": "2026-12-22",
+    "guests": 4,
+    "preferences": "Flying with family. Require VIP terminal transfers at Entebbe. One of the guests is vegetarian.",
+    "status": "Pending",
+    "createdAt": "2026-07-08T15:45:00Z"
+  }
+]
